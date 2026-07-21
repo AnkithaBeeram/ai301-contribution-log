@@ -9,7 +9,7 @@
 
 **Issue:** [[GitHub issue link]  ](https://github.com/wp-graphql/wp-graphql/issues/4026#top)
 
-**Status:** Phase I - Complete
+**Status:** Phase II - Complete
 ---
 
 ## Why I Chose This Issue
